@@ -82,5 +82,5 @@ export const arrayRoutes = [
   },
 ];
 
-// export const baseUrl = "https://lonely-ray-pumps.cyclic.app/api";
-export const baseUrl = "http://localhost:5000/api";
+export const baseUrl = "https://lonely-ray-pumps.cyclic.app/api";
+// export const baseUrl = "http://localhost:5000/api";
